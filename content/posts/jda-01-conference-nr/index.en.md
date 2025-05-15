@@ -1,5 +1,5 @@
 ---
-title: "Episode 1 – When Teachers Commit to More Responsible Digital Practices"
+title: "Episode 1 – When teachers commit to more responsible digital practices"
 summary: "A participatory conference at Jeanne d’Arc Middle School in Gex helped raise awareness among twenty teachers about the challenges of responsible digital practices, paving the way for the co-creation of a future course for 8th-grade students."
 description: "On February 10, 2025, around twenty teachers at Jeanne d’Arc Middle School in Gex took part in a participatory conference on responsible digital practices. Together, we explored the environmental and social impacts of digital technology, debunked common misconceptions, and discussed future challenges linked to AI and critical resources. This awareness session marks the first step in an ambitious educational project for all 8th-grade classes."
 categories: ["articles"]

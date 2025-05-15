@@ -1,5 +1,5 @@
 ---
-title: "Introduction - Responsible Digital in Action: Feedback from the Jeanne d’Arc Institution"
+title: "Introduction - Responsible digital in action: feedback from the Jeanne d’Arc institution"
 summary: "A series of articles sharing insights and feedback from awareness-raising initiatives on responsible digital practices at the Jeanne d’Arc institution in Cessy and Gex."
 description: "In 2025, a new chapter begins. It’s my turn to pass on knowledge by raising awareness around responsible digital practices among teachers and students at the Jeanne d’Arc middle and high schools in Cessy and Gex. Through this article series, I’ll be sharing key takeaways from this field experience."
 categories: ["articles"]

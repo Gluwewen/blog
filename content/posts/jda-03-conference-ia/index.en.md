@@ -1,7 +1,7 @@
 ---
-title: "Episode 3 – Artificial intelligence: a conference for the teachers of lycée Jeanne d’Arc"
+title: "Episode 3 – Artificial intelligence: a conference for the teachers of Lycée Jeanne d’Arc"
 summary: "A keynote for 70 teachers at lycée Jeanne d’Arc explored the fundamentals, benefits, and environmental and ethical challenges of artificial intelligence in education."
-description: "On April 18, 2025, I had the privilege of opening the pedagogical day at lycée Jeanne d’Arc in Cessy with a conference on artificial intelligence. Together with 70 teachers, we unpacked what AI is, how it works, and its environmental, ethical, and geopolitical implications. The vibrant discussions revealed a shared urgency to better understand and teach this transformative technology."
+description: "On April 18, 2025, I had the privilege of opening the pedagogical day at Lycée Jeanne d’Arc in Cessy with a conference on artificial intelligence. Together with 70 teachers, we unpacked what AI is, how it works, and its environmental, ethical, and geopolitical implications. The vibrant discussions revealed a shared urgency to better understand and teach this transformative technology."
 categories: ["articles"]
 tags: [Education, ResponsibleAI, DigitalResponsibility, Teaching, DigitalTransition, DigitalImpact, AIEthics, DigitalSobriety, Conference, HighSchool, JeanneDarcCessy, GreenIT]
 date: 2025-04-18

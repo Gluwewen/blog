@@ -8,16 +8,37 @@
     <language>en</language>
     <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
     <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
-    <copyright>© 2024 Vincent Loiseau</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/greenit/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Sustainable mindset © 2024 by Vincent Loiseau is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)</copyright>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/greenit/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>Feedback on Swiss IT Forum(s) 2024</title>
-      <link>http://localhost:1313/en/posts/retour-swiss-it-forum-2024/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <title>Episode 2 – First steps with high school students: 5 workshops to decode digital challenges</title>
+      <link>http://localhost:1313/en/posts/jda-02-ateliers-nr/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
-      <guid>http://localhost:1313/en/posts/retour-swiss-it-forum-2024/</guid>
-      <description>Feedback on the sustainable IT conferences I attended at Swiss IT forum(s) 2024, held on 26 and 27 September at Palexpo (Geneva)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/retour-swiss-it-forum-2024/featured.jpg" />
+      <guid>http://localhost:1313/en/posts/jda-02-ateliers-nr/</guid>
+      <description>A first series of five workshops introduced 12 tenth-grade students to the environmental and ethical challenges of digital technology, sparking high engagement and meaningful questions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-02-ateliers-nr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Episode 1 – When Teachers Commit to More Responsible Digital Practices</title>
+      <link>http://localhost:1313/en/posts/jda-01-conference-nr/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/jda-01-conference-nr/</guid>
+      <description>A participatory conference at Jeanne d’Arc Middle School in Gex helped raise awareness among twenty teachers about the challenges of responsible digital practices, paving the way for the co-creation of a future course for 8th-grade students.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-01-conference-nr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Introduction - Responsible Digital in Action: Feedback from the Jeanne d’Arc Institution</title>
+      <link>http://localhost:1313/en/posts/jda-introduction-nr/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/jda-introduction-nr/</guid>
+      <description>A series of articles sharing insights and feedback from awareness-raising initiatives on responsible digital practices at the Jeanne d’Arc institution in Cessy and Gex.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-introduction-nr/featured.png" />
     </item>
     
   </channel>

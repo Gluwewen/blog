@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JeanneDarcCessy on Sustainable Mindset</title>
+    <link>http://localhost:1313/en/tags/jeannedarccessy/</link>
+    <description>Recent content in JeanneDarcCessy on Sustainable Mindset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
+    <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
+    <copyright>Sustainable mindset © 2024 by Vincent Loiseau is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)</copyright>
+    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/jeannedarccessy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 3 – Artificial intelligence: a conference for the teachers of lycée Jeanne d’Arc</title>
+      <link>http://localhost:1313/en/posts/jda-03-conference-ia/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/en/posts/jda-03-conference-ia/</guid>
+      <description>A keynote for 70 teachers at lycée Jeanne d’Arc explored the fundamentals, benefits, and environmental and ethical challenges of artificial intelligence in education.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-03-conference-ia/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

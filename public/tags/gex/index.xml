@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gex on Sustainable Mindset</title>
+    <link>http://localhost:1313/tags/gex/</link>
+    <description>Recent content in Gex on Sustainable Mindset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
+    <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
+    <copyright>Sustainable mindset © 2024 par Vincent Loiseau est soumis à la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)</copyright>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gex/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Du numérique responsable en action : retour d’expérience au sein de l’institution Jeanne d’Arc</title>
+      <link>http://localhost:1313/posts/jda-introduction-nr/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/posts/jda-introduction-nr/</guid>
+      <description>Démonstration de Resilio Tech par Amael Parreaux-Ey au Swiss IT forum(s) 2024 qui s&amp;rsquo;est tenu les 26 et 27 septembre à Palexpo (Genève)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-introduction-nr/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -269,6 +269,9 @@ Si vous désirez en savoir plus, n'hésitez pas à consulter [mon profil LinkedI
         <td style="vertical-align: middle !important;">
             <table>
                 <tr>
+                    <td><a target="_blank" href="https://certificat.greenit.fr/certificats/2024.12.18-VL135-DFY7-ACV25">Certification « ACV numérique »</a></td>  
+                </tr>
+                <tr>
                     <td><a target="_blank" href="https://certificat.greenit.fr/certificats/2024.05.29-VL135-TGG3-ECO25">Certification « Ecoconception de service numérique »</a></td>  
                 </tr>
                 <tr>

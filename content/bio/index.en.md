@@ -27,7 +27,6 @@ Why have to choose between accessibility of digital services, financial profit a
 | Software development | Product Owner <br>_Scrum.org_ |
 | Collective intelligence | Scrum Master <br>_Scrum.org_ |
 
-
 {{< button href=http://www.sustainablemind.tech/CV-FR-SOKUBE-Vincent-LOISEAU.pdf target="_blank" >}}
 Download my resume
 {{< /button >}}

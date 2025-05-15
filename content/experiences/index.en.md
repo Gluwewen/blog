@@ -268,6 +268,8 @@ If you’d like to know more about me, feel free to check out [my LinkedIn profi
         <td style="vertical-align: middle !important;"><img alt="GREENIT.FR" src="https://www.sustainablemind.tech/experiences/img/greenitfr-logo-96x96.jpg" style="width: 96px;"></td>
         <td style="vertical-align: middle !important;">
             <table>
+                <td>
+                    <a target="_blank" href="https://certificat.greenit.fr/certificats/2024.12.18-VL135-DFY7-ACV25">Certified « Digital Life Cycle Assessment »</a></td>
                 <tr>
                     <td><a target="_blank" href="https://certificat.greenit.fr/certificats/2024.05.29-VL135-TGG3-ECO25">Certified « Ecodesign of digital services »</a></td>  
                 </tr>

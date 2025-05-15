@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enseignement on Sustainable Mindset</title>
+    <link>http://localhost:1313/tags/enseignement/</link>
+    <description>Recent content in Enseignement on Sustainable Mindset</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</managingEditor>
+    <webMaster>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</webMaster>
+    <copyright>Sustainable mindset © 2024 par Vincent Loiseau est soumis à la licence [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1)</copyright>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/enseignement/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Épisode 2– Premiers pas avec les lycéens : 5 ateliers pour décoder les enjeux du numérique</title>
+      <link>http://localhost:1313/posts/jda-02-ateliers-nr/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/posts/jda-02-ateliers-nr/</guid>
+      <description>Un premier cycle de 5 ateliers a permis à 12 lycéens de seconde de découvrir et questionner les enjeux environnementaux et éthiques du numérique, avec une forte implication et une curiosité stimulante.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-02-ateliers-nr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Épisode 1 – Quand le corps enseignant s’engage pour un numérique plus responsable</title>
+      <link>http://localhost:1313/posts/jda-01-conference-nr/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/posts/jda-01-conference-nr/</guid>
+      <description>Une conférence participative au collège Jeanne d’Arc de Gex a permis de sensibiliser une vingtaine d’enseignants aux enjeux du numérique responsable, en vue de co-construire un futur cours pour les élèves de 4ème.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-01-conference-nr/featured.png" />
+    </item>
+    
+    <item>
+      <title>Introduction - Du numérique responsable en action : retour d’expérience au sein de l’institution Jeanne d’Arc</title>
+      <link>http://localhost:1313/posts/jda-introduction-nr/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <author>vincent.loiseau@sustainablemind.tech (Vincent Loiseau)</author>
+      <guid>http://localhost:1313/posts/jda-introduction-nr/</guid>
+      <description>Une série d&amp;rsquo;articles partageant divers retours d&amp;rsquo;expériences sur la sensibilisation au numérique Responsable au sein de l&amp;rsquo;institution Jeanne d&amp;rsquo;Arc de Cessy et de Gex.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jda-introduction-nr/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
